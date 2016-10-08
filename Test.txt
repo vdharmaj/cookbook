@@ -1,0 +1,5 @@
+This is text file in the cookbook repository.
+
+This is a sample text for git.
+
+good luck.
